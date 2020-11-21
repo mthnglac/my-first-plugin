@@ -6,5 +6,5 @@ endfun
 
 augroup MyFirstPlugin
   autocmd!
-  autocmd VimResized * :lua require("your-first-plugin").onResize()
+  autocmd VimResized * :lua require("my-first-plugin").onResize()
 augroup END
