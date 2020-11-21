@@ -1,1 +1,1 @@
-# my first nvim plugin
+## my first nvim plugin
